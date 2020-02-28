@@ -1,0 +1,71 @@
+/* Your custom css code goes here */
+.probootstrap-navbar .navbar-brand {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+  font-size: 30px;
+  text-transform: uppercase;
+  background: url(../img/dau.png) no-repeat left 100%;
+  top: 24px;
+  position: relative;
+  width: 160px;
+  height: 43px;
+  text-indent: -999999px;
+  -webkit-transition: .2s all;
+  transition: .2s all;
+}
+
+.probootstrap-top-quick-contact-info span i {
+  display: inline-block;
+  margin-right: 10px;
+  color:#060ef9!important;
+}
+
+.probootstrap-top-social ul li a {
+	color:#060ef9!important;
+}
+
+.probootstrap-counter-wrap .probootstrap-icon i{
+	color:#060ef9!important; 
+}
+.element.style{
+	background-color: #49d29247;
+}
+
+.probootstrap-cta{
+	background-color: #31708f;
+}
+.probootstrap-footer{
+	background-color: #1b1919;
+}
+
+.btn.btn-primary{
+	background-color: #5149d2;
+}
+
+
+#kurs{
+	background-color: #91C3DC;
+}
+
+#shko{
+	background-color: #6699CC;
+}
+#probootstrap-counter{
+	background-color: #6699CC;
+}
+
+#event{
+	background-color: #99CC99;
+}
+#kk{
+	background-color: #CDB599FF;
+}
+#tq{
+	background-color: #99CCFF;
+}
+
+#mentor{
+	background-color: #CCFFCC;
+}
+
+
